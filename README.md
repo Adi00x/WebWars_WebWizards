@@ -6,7 +6,7 @@ Developing the official websites for ICCSAI 2025 -- the international Conference
 
 ## Team Name & Member Details
 
--[Team Name] : WebWizards
+[Team Name] : WebWizards
 -[Member Details] : Vibhav Raj ;
                   Aditya Kanaujiya ;
                   Lakshya Srivastav
