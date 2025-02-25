@@ -1,11 +1,11 @@
 # Project Name 
- IEEE WebWars 2025
+ 📛IEEE WebWars 2025
 # Project Title
 
- Developing the official websites for ICCSAI 2025 -- the international Conference on Communication, Security, and AI.
+ 📌Developing the official websites for ICCSAI 2025 -- the international Conference on Communication, Security, and AI.
 
 ## Team Name 
- WebWars_WebWizards
+ ➡️ WebWars_WebWizards
 
 ## Team Leader & Team Members
  **Team Leader :**
@@ -33,13 +33,13 @@ Git, GitHub
 Instructions on how to install and set up the project.
 
 ## Features Implemented
-Fully responsive and intuitive design.
+❗Fully responsive and intuitive design.
 
-Interactive and engaging user interface.
+❗Interactive and engaging user interface.
 
-Optimized for performance and accessibility.
+❗Optimized for performance and accessibility.
 
-Scalable and maintainable architecture.
+❗Scalable and maintainable architecture.
 
 ## Deployment Link
 
