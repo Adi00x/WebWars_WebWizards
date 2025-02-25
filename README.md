@@ -59,7 +59,7 @@ Automatic image carousel for visual engagement
 
 ## Deployment 
  🚀**This project can easily be hosted on platforms like:**
-   GitHub Pages
-   Netlify
-   Vercel
-
+   GitHub Pages ;
+   Netlify ;
+   Vercel ;
+ 🔗**Deployment link:** []
