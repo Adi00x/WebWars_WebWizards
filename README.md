@@ -8,9 +8,11 @@
  WebWars_WebWizards
 
 ## Team Leader & Team Members
- Team Leader : Vibhav Raj
- Team Members : Aditya Kanaujiya ;
-                Lakshya Srivastav 
+ **Team Leader :**
+ Vibhav Raj
+ **Team Members :**
+ Aditya Kanaujiya ;
+ Lakshya Srivastav 
                 
 ## Tech Stack Used
 
