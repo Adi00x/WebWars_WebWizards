@@ -1,16 +1,17 @@
-# WebWars_WebWizards
-For IEEE WebWars 2025
+# Project Name 
+ IEEE WebWars 2025
 # Project Title
 
-Developing the official websites for ICCSAI 2025 -- the international Conference on Communication, Security, and AI.
+ Developing the official websites for ICCSAI 2025 -- the international Conference on Communication, Security, and AI.
 
-## Team Name & Member Details
+## Team Name 
+ WebWars_WebWizards
 
-[Team Name] : WebWizards
--[Member Details] : Vibhav Raj ;
-                  Aditya Kanaujiya ;
-                  Lakshya Srivastav
-
+## Team Leader & Team Members
+ Team Leader : Vibhav Raj
+ Team Members : Aditya Kanaujiya ;
+                Lakshya Srivastav 
+                
 ## Tech Stack Used
 
 used tech stack.
