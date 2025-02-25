@@ -30,10 +30,10 @@
 
 ## Installation & Setup Instructions
  **1.Clone the repository:**
- gh repo clone Adi00x/WebWars_WebWizards
+git clone https://github.com/Adi00x/WebWars_WebWizards.git
 
  **2.Navigate to the project directory:**
- cd WebWars_WebWizards/WebWar
+ https://github.com/Adi00x/WebWars_WebWizards.git
 
  **3.Open the HTML file in a browser:**
 Simply double-click index.html or use Live Server in VSCode for a better development experience.
