@@ -30,7 +30,7 @@
 
 ## Installation & Setup Instructions
  **1.Clone the repository:**
- git clone https://github.com/Adi00x/WebWars_WebWizards.git
+ gh repo clone Adi00x/WebWars_WebWizards
 
  **2.Navigate to the project directory:**
  cd WebWars_WebWizards/WebWar
