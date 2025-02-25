@@ -16,31 +16,50 @@
  Lakshya Srivastav 
                 
 ## Tech Stack Used
-**Frontend:**
-HTML, CSS, JavaScript
+ 🛠**HTML5:**
+ Structure and content
 
-**Backend:**
-Node.js, Express.js
+ 🛠**CSS3:**
+ Styling, animations, and responsiveness
 
-**Database:**
-MongoDB
+ 🛠**JavaScript:**
+ Interactivity and dynamic elements
 
-**Version Control:**
-Git, GitHub
+ 🛠**Google Fonts:**
+ Custom typography (Poppins)
 
 ## Installation & Setup Instructions
+ **1.Clone the repository:**
+ git clone https://github.com/Adi00x/WebWars_WebWizards.git
 
-Instructions on how to install and set up the project.
+ **2.Navigate to the project directory:**
+ cd WebWars_WebWizards/WebWar
+
+ **3.Open the HTML file in a browser:**
+Simply double-click index.html or use Live Server in VSCode for a better development experience.
 
 ## Features Implemented
-❗Fully responsive and intuitive design.
+ ✨**Responsive Design:**
+ Optimized for all devices (mobile, tablet, desktop)
 
-❗Interactive and engaging user interface.
+ ✨**Dynamic Navigation Menu:**
+Popup menu for site navigation
 
-❗Optimized for performance and accessibility.
+ ✨**Slideshow Gallery:**
+Automatic image carousel for visual engagement
 
-❗Scalable and maintainable architecture.
+ ✨**Animated Elements:**
+ Slide-in, fade-in, and hover effects for a modern look
 
-## Deployment Link
+ ✨**Fixed Contact Button:**
+ Easy access to the contact form
 
-link.
+ ✨**Event Highlight Banner:**
+ Scrolling announcement with key event info
+
+## Deployment 
+ 🚀**This project can easily be hosted on platforms like:**
+   GitHub Pages
+   Netlify
+   Vercel
+
